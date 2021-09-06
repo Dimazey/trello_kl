@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: trello-client-basics-api-dimazey
+Version: 0.0.1
+Summary: trello client
+Home-page: https://github.com/Dimazey/trello_kl
+Author: Dimazey
+Author-email: mof@list.ru
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Это мой консольный клиент для Trello! 
+
